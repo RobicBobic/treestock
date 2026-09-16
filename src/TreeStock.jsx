@@ -110,7 +110,7 @@ const CHAIN_NAMES = {
   "0xa4b1": "Arbitrum", "0xa": "Optimism", "0x2105": "Base",
 };
 const CONTRACT_ADDRESS = "0x0000000000000000000000000000000000000000";
-const TWITTER_URL = "https://x.com/treestock";
+const TWITTER_URL = "https://x.com/TreeOnStock";
 
 const FAQ = [
   { q: "What is a stake in a tree, actually?", a: "Each tree in the grove tracks a real, listed stock. Watering that tree buys a tokenized share that follows the underlying stock's price. It's not a share itself, so there's no voting right, no dividend, and no direct legal ownership of the company." },
